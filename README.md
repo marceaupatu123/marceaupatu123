@@ -18,6 +18,33 @@
 </br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 50 Contributions in the Year 2020
+ > 
+> 📦 23.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ██████████████████░░░░░░░   75.0% 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/marceaupatu123/marceaupatu123/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 
