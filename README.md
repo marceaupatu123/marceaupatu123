@@ -46,7 +46,7 @@ Python                   1 repo              ██████░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/marceaupatu123/marceaupatu123/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/marceaupatu123/marceaupatu123/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
