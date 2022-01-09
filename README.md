@@ -21,26 +21,27 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2022
  > 
-> 📦 24.3 kB Used in GitHub's Storage 
+> 📦 24.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ████████████████░░░░░░░░░   66.67% 
-Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Handlebars               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+JavaScript               4 repos             ██████████████░░░░░░░░░░░   57.14% 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Handlebars               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
@@ -50,5 +51,5 @@ Handlebars               1 repo              ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/marceaupatu123/marceaupatu123/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
