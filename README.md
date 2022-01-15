@@ -1,4 +1,4 @@
-### Hi there, I'm Marceaupatu123 - aka marceaupatu123 👋
+### Hi there, I'm Marceaupatu123 - aka Dominus_Marceau 👋
 
 ## I'm a french man who is trying to learn code
 
