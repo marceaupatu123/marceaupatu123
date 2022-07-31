@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 19 Contributions in the Year 2022
+> 🏆 21 Contributions in the Year 2022
  > 
 > 📦 26.2 kB Used in GitHub's Storage 
  > 
@@ -38,9 +38,8 @@
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ███████████░░░░░░░░░░░░░░   44.44% 
+JavaScript               5 repos             ██████████████░░░░░░░░░░░   55.56% 
 Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Handlebars               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
 TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
@@ -51,5 +50,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/marceaupatu123/marceaupatu123/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/07/2022 18:49:38 UTC
+ Last Updated on 31/07/2022 18:46:48 UTC
 <!--END_SECTION:waka-->
