@@ -19,28 +19,29 @@
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 29 Contributions in the Year 2022
+> 🏆 33 Contributions in the Year 2022
  > 
-> 📦 26.3 kB Used in GitHub's Storage 
+> 📦 26.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ██████████████░░░░░░░░░░░   55.56% 
-Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+JavaScript               5 repos             ████████████░░░░░░░░░░░░░   50.0% 
+Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
@@ -50,5 +51,5 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/marceaupatu123/marceaupatu123/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/08/2022 18:48:30 UTC
+ Last Updated on 23/08/2022 18:48:24 UTC
 <!--END_SECTION:waka-->
