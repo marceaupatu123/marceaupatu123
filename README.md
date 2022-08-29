@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -33,15 +33,15 @@
  > 
 > 📜 9 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 7 Private Repositories  
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+JavaScript               6 repos             █████████████░░░░░░░░░░░░   54.55% 
+Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
@@ -51,5 +51,5 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/marceaupatu123/marceaupatu123/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/08/2022 18:49:13 UTC
+ Last Updated on 29/08/2022 18:51:40 UTC
 <!--END_SECTION:waka-->
